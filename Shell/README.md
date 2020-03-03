@@ -3,7 +3,7 @@ Example:
 
 Directory: /Users/Angelo/Github/Projects/Shell
 
-To compile the C# file: gcc -lreadline myShell.c -o shellObj
+To compile the C file: gcc -lreadline myShell.c -o shellObj
 To run the program: ./shellObj
 
 [angelo_Shell]~> ls
