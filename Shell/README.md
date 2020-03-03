@@ -7,10 +7,10 @@ To compile the C# file: gcc -lreadline myShell.c -o shellObj
 To run the program: ./shellObj
 
 [angelo_Shell]~> ls
-myShell.c  README.md  shell
+myShell.c  README.md  shellObj
 
 [angelo_Shell]~> list
-myShell.c  README.md  shell
+myShell.c  README.md  shellObj
 
 [angelo_Shell]~> pwd
 /Users/Angelo/Github/Projects/Shell
