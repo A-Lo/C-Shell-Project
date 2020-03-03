@@ -5,6 +5,7 @@ Directory: /Users/Angelo/Github/Projects/Shell
 
 To compile the C file: gcc -lreadline myShell.c -o shellObj
 To run the program: ./shellObj
+[Note]: You can name the object whatever you want, I gave it shellObj for demonstration purposes
 
 [angelo_Shell]~> ls
 myShell.c  README.md  shellObj
